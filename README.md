@@ -1,9 +1,23 @@
-[toc]
-
 # @ctPro
 
 **@ctPro** est une plateforme web collaborative de gestion et de suivi des réunions, actions et processus PDCA (Plan–Do–Check–Act). Conçue pour structurer et tracer chaque étape de vos projets, elle offre une interface intuitive et modulable pour piloter vos activités, garantir la responsabilisation des acteurs et produire des analyses de performance en temps réel.
 
+---
+
+## Table des matières
+
+1. [Fonctionnalités clés](#fonctionnalités-clés)  
+2. [Architecture et technologies](#architecture-et-technologies)  
+3. [Prérequis](#prérequis)  
+4. [Installation et configuration](#installation-et-configuration)  
+5. [Modèle de données](#modèle-de-données)  
+6. [Utilisation](#utilisation)  
+7. [Personnalisation & Extensibilité](#personnalisation--extensibilité)  
+8. [Contribuer](#contribuer)  
+9. [Licence](#licence)  
+10. [Contact](#contact)  
+
+---
 
 ## 1. Fonctionnalités clés
 
